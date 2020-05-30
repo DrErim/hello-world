@@ -1,2 +1,3 @@
 # hello-world
-need to translate what is repository?
+let's learn
+this is about things that i learn, let's watch more
